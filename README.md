@@ -100,7 +100,6 @@ Build a mini CI/CD pipeline with Docker Compose, Flask, Redis, and Pytest.
 
 📖 Usage
 Clone this repo:
-https://github.com/Hassan6586/Docker_Labs.git
+git clone https://github.com/Hassan6586/Docker_Labs.git
 
-git clone https://github.com/le3arn2code/docker_deep_dive.git
-cd docker_deep_dive
+
