@@ -1,4 +1,4 @@
-# Lab 30 – Docker CI/CD
+# Lab 30 – Docker CI/CD Pipelines
 
 This lab demonstrates how to:
 - Build a Flask app with Redis using Docker and Docker Compose
